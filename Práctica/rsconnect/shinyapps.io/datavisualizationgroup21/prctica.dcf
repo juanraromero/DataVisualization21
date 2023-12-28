@@ -1,0 +1,10 @@
+name: prctica
+title:
+username: datavisualizationgroup21
+account: datavisualizationgroup21
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10851704
+bundleId: 8089835
+url: https://datavisualizationgroup21.shinyapps.io/prctica/
+version: 1
